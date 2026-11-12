@@ -1,0 +1,24 @@
+﻿JANE SMITH
+
+WORK EXPERIENCE
+
+Software Developer
+Tech Solutions
+June 2020 - May 2022
+
+Developed web applications using Python, JavaScript,
+React, SQL and Git.
+
+Data Analyst
+DataWorks
+June 2022 - May 2024
+
+Performed data analysis using Python, SQL, Excel
+and Power BI.
+
+Data Scientist
+AI Labs
+June 2024 - Present
+
+Built machine learning models using Python,
+Pandas, NumPy and Scikit-learn.

@@ -1,0 +1,29 @@
+{
+  "transcript": {
+    "candidate_id": "CAND001",
+    "job_id": "JOB_DA_001",
+    "question_id": "HRQ003",
+    "timestamp": "2026-10-06T13:07:47.092640+00:00",
+    "confidence_level": 0.94,
+    "speaker": "candidate",
+    "sequence": 1,
+    "text": "I have two years of experience in data analysis. I mainly work with Python, SQL and Power BI!",
+    "language": "en"
+  },
+  "screening_interaction": {
+    "candidate_id": "CAND001",
+    "job_id": "JOB_DA_001",
+    "question_id": "HRQ003",
+    "timestamp": "2026-10-06T13:07:47.092640+00:00",
+    "confidence_level": 0.94,
+    "question": {
+      "question_id": "HRQ003",
+      "text": "How many years of relevant experience do you have for the Data Analyst role?"
+    },
+    "answer": {
+      "text": "I have two years of experience in data analysis. I mainly work with Python, SQL and Power BI!",
+      "language": "en"
+    },
+    "interaction_status": "completed"
+  }
+}

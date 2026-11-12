@@ -1,0 +1,37 @@
+﻿[
+  {
+    "response_id": "D36-R001",
+    "scenario": "Clear response with positive wording",
+    "text": "I successfully completed a data analysis project. I used Python to organize the information and improved the final report."
+  },
+  {
+    "response_id": "D36-R002",
+    "scenario": "Response containing uncertainty",
+    "text": "I think maybe I could probably handle that task, but I am not sure."
+  },
+  {
+    "response_id": "D36-R003",
+    "scenario": "Response containing repeated words",
+    "text": "I worked on the the project and used Python."
+  },
+  {
+    "response_id": "D36-R004",
+    "scenario": "Explicit pause markers",
+    "text": "I [pause: 3.2s] worked on a project and [pause: 4s] completed the report."
+  },
+  {
+    "response_id": "D36-R005",
+    "scenario": "Response containing stress-related wording",
+    "text": "I felt overwhelmed and worried about the deadline, but I completed the task."
+  },
+  {
+    "response_id": "D36-R006",
+    "scenario": "Potentially opposing wording",
+    "text": "I always agree with the plan, but sometimes I never agree with it."
+  },
+  {
+    "response_id": "D36-R007",
+    "scenario": "Empty response",
+    "text": ""
+  }
+]

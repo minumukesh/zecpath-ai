@@ -1,0 +1,122 @@
+[
+    {
+        "candidate_id": "C001",
+        "job_id": "JOB-001",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 91.5,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C002",
+        "job_id": "JOB-001",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 78.0,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C003",
+        "job_id": "JOB-001",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 42.0,
+        "ats_decision": "AUTO-REJECT",
+        "screening_completed": true,
+        "interview_completed": false,
+        "final_status": "CLOSED_AT_INITIAL_SCREENING",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C004",
+        "job_id": "JOB-002",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 94.0,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C005",
+        "job_id": "JOB-002",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 66.0,
+        "ats_decision": "REVIEW",
+        "screening_completed": true,
+        "interview_completed": false,
+        "final_status": "PENDING_MANUAL_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C006",
+        "job_id": "JOB-002",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 35.0,
+        "ats_decision": "AUTO-REJECT",
+        "screening_completed": true,
+        "interview_completed": false,
+        "final_status": "CLOSED_AT_INITIAL_SCREENING",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C007",
+        "job_id": "JOB-003",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 90.0,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C008",
+        "job_id": "JOB-003",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 64.0,
+        "ats_decision": "REVIEW",
+        "screening_completed": true,
+        "interview_completed": false,
+        "final_status": "PENDING_MANUAL_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C009",
+        "job_id": "JOB-001",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 96.0,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C010",
+        "job_id": "JOB-002",
+        "resume_submitted": true,
+        "resume_parsed": true,
+        "ats_score": 82.0,
+        "ats_decision": "SHORTLIST",
+        "screening_completed": true,
+        "interview_completed": true,
+        "final_status": "INTERVIEW_COMPLETED_PENDING_HR_REVIEW",
+        "data_type": "synthetic_demo"
+    }
+]

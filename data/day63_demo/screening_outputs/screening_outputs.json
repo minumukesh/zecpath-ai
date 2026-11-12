@@ -1,0 +1,145 @@
+[
+    {
+        "candidate_id": "C001",
+        "job_id": "JOB-001",
+        "screening_status": "PASSED",
+        "screening_response": "I use SQL to extract data and Python for analysis. I use Power BI to communicate findings.",
+        "skills_identified": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Power BI",
+            "Pandas"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C002",
+        "job_id": "JOB-001",
+        "screening_status": "PASSED",
+        "screening_response": "I have academic experience in statistics and basic Python analysis.",
+        "skills_identified": [
+            "Python",
+            "Excel",
+            "Statistics",
+            "SQL"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C003",
+        "job_id": "JOB-001",
+        "screening_status": "NOT_QUALIFIED",
+        "screening_response": "I have worked with spreadsheets and created basic reports.",
+        "skills_identified": [
+            "Excel",
+            "Power BI",
+            "Communication"
+        ],
+        "review_required": true,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C004",
+        "job_id": "JOB-002",
+        "screening_status": "PASSED",
+        "screening_response": "I have developed Flask APIs and integrated relational databases.",
+        "skills_identified": [
+            "Python",
+            "Flask",
+            "SQL",
+            "REST API",
+            "Git",
+            "Docker"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C005",
+        "job_id": "JOB-002",
+        "screening_status": "MANUAL_REVIEW",
+        "screening_response": "I have used Python and SQL in college projects.",
+        "skills_identified": [
+            "Python",
+            "SQL",
+            "Git"
+        ],
+        "review_required": true,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C006",
+        "job_id": "JOB-002",
+        "screening_status": "NOT_QUALIFIED",
+        "screening_response": "I have studied programming and web technologies.",
+        "skills_identified": [
+            "Java",
+            "HTML",
+            "CSS",
+            "Communication"
+        ],
+        "review_required": true,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C007",
+        "job_id": "JOB-003",
+        "screening_status": "PASSED",
+        "screening_response": "I gather requirements, document processes, and analyze operational performance.",
+        "skills_identified": [
+            "Business Analysis",
+            "Excel",
+            "Communication",
+            "Power BI",
+            "SQL"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C008",
+        "job_id": "JOB-003",
+        "screening_status": "MANUAL_REVIEW",
+        "screening_response": "I have experience preparing reports and documenting project requirements.",
+        "skills_identified": [
+            "Excel",
+            "Communication",
+            "Documentation"
+        ],
+        "review_required": true,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C009",
+        "job_id": "JOB-001",
+        "screening_status": "PASSED",
+        "screening_response": "I analyze large datasets, identify patterns, and communicate findings to business teams.",
+        "skills_identified": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Pandas",
+            "Statistics",
+            "Power BI"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    },
+    {
+        "candidate_id": "C010",
+        "job_id": "JOB-002",
+        "screening_status": "PASSED",
+        "screening_response": "I have created backend routes and connected applications to SQL databases.",
+        "skills_identified": [
+            "Python",
+            "Flask",
+            "SQL",
+            "REST API"
+        ],
+        "review_required": false,
+        "source": "simulated"
+    }
+]

@@ -1,0 +1,17 @@
+﻿JOHN DOE
+
+PROFESSIONAL EXPERIENCE
+
+Data Analyst
+ABC Analytics Pvt Ltd
+January 2022 - December 2023
+
+Analyzed business data using Python, SQL, Excel and Power BI.
+Created dashboards and reports for business teams.
+
+Business Analyst
+XYZ Solutions
+January 2024 - Present
+
+Gathered business requirements and worked with SQL,
+Excel and Power BI to create analytical reports.

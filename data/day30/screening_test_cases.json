@@ -1,0 +1,72 @@
+﻿[
+  {
+    "candidate_id": "D30-001",
+    "question": "Which technical skills have you used?",
+    "answer": "I have used Python, SQL, and Excel in my academic projects.",
+    "expected_intent": "skills",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-002",
+    "question": "Describe your relevant experience.",
+    "answer": "I completed a data analytics internship where I cleaned datasets and created reports using SQL and Power BI.",
+    "expected_intent": "experience",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-003",
+    "question": "When could you join?",
+    "answer": "I am available to join within thirty days after receiving the offer.",
+    "expected_intent": "availability",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-004",
+    "question": "What is your salary expectation?",
+    "answer": "My expected salary is negotiable based on the responsibilities and company compensation range.",
+    "expected_intent": "salary",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-005",
+    "question": "Tell me about your education.",
+    "answer": "I completed a bachelor's degree in computer science and I am pursuing my master's degree in computer applications.",
+    "expected_intent": "education",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-006",
+    "question": "Which skills do you have?",
+    "answer": "Python and SQL",
+    "expected_intent": "skills",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-007",
+    "question": "Can you describe your experience?",
+    "answer": "I am not sure. Maybe I have done some things.",
+    "expected_intent": "experience",
+    "human_decision": "REVIEW"
+  },
+  {
+    "candidate_id": "D30-008",
+    "question": "Which technical skills do you have?",
+    "answer": "I enjoy watching movies and playing games during weekends.",
+    "expected_intent": "skills",
+    "human_decision": "REJECT"
+  },
+  {
+    "candidate_id": "D30-009",
+    "question": "Tell me about your relevant experience.",
+    "answer": "I have experience working on Python projects and building reports with SQL.",
+    "expected_intent": "experience",
+    "human_decision": "ACCEPT"
+  },
+  {
+    "candidate_id": "D30-010",
+    "question": "When are you available to join?",
+    "answer": "I do not understand the question.",
+    "expected_intent": "availability",
+    "human_decision": "REVIEW"
+  }
+]

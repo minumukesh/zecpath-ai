@@ -1,0 +1,38 @@
+[
+  {
+    "candidate_id": "HR001",
+    "candidate_name": "Candidate A",
+    "role": "Data Analyst",
+    "scores": {
+      "communication": 90,
+      "role_understanding": 85,
+      "problem_solving": 88,
+      "professionalism": 92
+    },
+    "manager_feedback": "Clear communication and good role understanding."
+  },
+  {
+    "candidate_id": "HR002",
+    "candidate_name": "Candidate B",
+    "role": "Software Developer",
+    "scores": {
+      "communication": 75,
+      "role_understanding": 80,
+      "problem_solving": 72,
+      "professionalism": 78
+    },
+    "manager_feedback": "Good fundamentals. Needs more practical depth."
+  },
+  {
+    "candidate_id": "HR003",
+    "candidate_name": "Candidate C",
+    "role": "DevOps Engineer",
+    "scores": {
+      "communication": 55,
+      "role_understanding": 48,
+      "problem_solving": 52,
+      "professionalism": 60
+    },
+    "manager_feedback": "Requires further technical and communication review."
+  }
+]

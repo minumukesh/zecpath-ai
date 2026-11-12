@@ -1,0 +1,13 @@
+﻿JOHN DOE
+
+EDUCATION
+
+B.Tech in Computer Science Engineering
+ABC University
+Graduated 2022
+
+CERTIFICATIONS
+
+Google Data Analytics Certificate
+AWS Certified Cloud Practitioner
+Python Programming Certificate

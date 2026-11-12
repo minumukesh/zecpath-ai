@@ -1,0 +1,23 @@
+RESUME
+
+Candidate ID: C006
+Name: Nisha Thomas
+Target Role: Python Developer
+
+PROFESSIONAL SUMMARY
+Computer applications postgraduate seeking a software role.
+
+EDUCATION
+MCA
+
+WORK EXPERIENCE
+0 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Java, HTML, CSS, Communication
+
+PROJECTS
+- Portfolio Website
+
+NOTE
+This is a fictional demonstration resume created for software testing.

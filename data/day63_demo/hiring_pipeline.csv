@@ -1,0 +1,11 @@
+﻿candidate_id,job_id,resume_submitted,resume_parsed,ats_score,ats_decision,screening_completed,interview_completed,final_status,data_type
+C001,JOB-001,True,True,91.5,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo
+C002,JOB-001,True,True,78.0,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo
+C003,JOB-001,True,True,42.0,AUTO-REJECT,True,False,CLOSED_AT_INITIAL_SCREENING,synthetic_demo
+C004,JOB-002,True,True,94.0,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo
+C005,JOB-002,True,True,66.0,REVIEW,True,False,PENDING_MANUAL_REVIEW,synthetic_demo
+C006,JOB-002,True,True,35.0,AUTO-REJECT,True,False,CLOSED_AT_INITIAL_SCREENING,synthetic_demo
+C007,JOB-003,True,True,90.0,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo
+C008,JOB-003,True,True,64.0,REVIEW,True,False,PENDING_MANUAL_REVIEW,synthetic_demo
+C009,JOB-001,True,True,96.0,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo
+C010,JOB-002,True,True,82.0,SHORTLIST,True,True,INTERVIEW_COMPLETED_PENDING_HR_REVIEW,synthetic_demo

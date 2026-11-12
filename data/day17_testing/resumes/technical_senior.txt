@@ -1,0 +1,29 @@
+CANDIDATE: TS001
+NAME: Rahul Menon
+
+SUMMARY
+Senior Data Analyst with 6 years of experience working with business data and reporting systems.
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Tableau, Statistics, Machine Learning, Git
+
+EXPERIENCE
+Senior Data Analyst - ABC Analytics
+2019 - 2025
+
+Data Analyst - XYZ Technologies
+2017 - 2019
+
+EDUCATION
+Bachelor of Technology in Computer Science
+XYZ University
+2017
+
+PROJECTS
+Built sales forecasting dashboards using Python and Power BI.
+Developed automated SQL reporting pipelines.
+Created customer analytics and machine learning models.
+
+CERTIFICATIONS
+Microsoft Power BI
+Google Data Analytics

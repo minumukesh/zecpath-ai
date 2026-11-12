@@ -1,0 +1,69 @@
+﻿[
+  {
+    "candidate_id": "D39-001",
+    "candidate_name": "Arun Kumar",
+    "role": "Junior Data Analyst",
+    "strengths": [
+      "Explained how he checks data quality before reporting",
+      "Provided an example of solving a project issue"
+    ],
+    "weaknesses": [
+      "Could explain project results in more detail"
+    ],
+    "collaboration_indicators": [
+      "Described listening to teammate feedback",
+      "Described comparing alternatives before choosing a solution"
+    ],
+    "risk_flags": [
+      "Availability needs confirmation"
+    ],
+    "scores": {
+      "answer_relevance": 85,
+      "communication": 82,
+      "problem_solving": 88,
+      "consistency": 90
+    },
+    "answers": [
+      {
+        "topic": "availability",
+        "value": "Available after one month"
+      },
+      {
+        "topic": "availability",
+        "value": "Can start immediately"
+      }
+    ]
+  },
+  {
+    "candidate_id": "D39-002",
+    "candidate_name": "Meera Joseph",
+    "role": "Business Analyst",
+    "strengths": [
+      "Explained how she gathers requirements",
+      "Described communicating with stakeholders"
+    ],
+    "weaknesses": [
+      "Needs to provide more detail when explaining examples"
+    ],
+    "collaboration_indicators": [
+      "Described asking stakeholders to clarify requirements"
+    ],
+    "risk_flags": [],
+    "scores": {
+      "answer_relevance": 78,
+      "communication": 80,
+      "problem_solving": 76,
+      "consistency": 84
+    },
+    "answers": [
+      {
+        "topic": "notice_period",
+        "value": "Two weeks"
+      },
+      {
+        "topic": "notice_period",
+        "value": "Two weeks"
+      }
+    ]
+  }
+]

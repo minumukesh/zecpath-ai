@@ -1,0 +1,11 @@
+﻿candidate_id,name,job_id,education,experience_years,skills,projects,resume_quality,source
+C001,Aarav Menon,JOB-001,BSc Computer Science,2,"[""Python"", ""SQL"", ""Excel"", ""Power BI"", ""Pandas""]","[""Sales Dashboard"", ""Customer Data Analysis""]",high,synthetic_demo
+C002,Diya Nair,JOB-001,BSc Statistics,0,"[""Python"", ""Excel"", ""Statistics"", ""SQL""]","[""Student Performance Analysis""]",medium,synthetic_demo
+C003,Rahul Varma,JOB-001,BCA,1,"[""Excel"", ""Power BI"", ""Communication""]",[],low,synthetic_demo
+C004,Meera Krishnan,JOB-002,BTech Computer Science,3,"[""Python"", ""Flask"", ""SQL"", ""REST API"", ""Git"", ""Docker""]","[""Inventory API"", ""Employee Management System""]",high,synthetic_demo
+C005,Arjun Das,JOB-002,BSc Computer Science,1,"[""Python"", ""SQL"", ""Git""]","[""Library Management System""]",medium,synthetic_demo
+C006,Nisha Thomas,JOB-002,MCA,0,"[""Java"", ""HTML"", ""CSS"", ""Communication""]","[""Portfolio Website""]",low,synthetic_demo
+C007,Ishita Pillai,JOB-003,MBA,2,"[""Business Analysis"", ""Excel"", ""Communication"", ""Power BI"", ""SQL""]","[""Process Improvement Study"", ""Sales Reporting""]",high,synthetic_demo
+C008,Vishnu Raj,JOB-003,BBA,0,"[""Excel"", ""Communication"", ""Documentation""]","[""Market Research Assignment""]",medium,synthetic_demo
+C009,Ananya Menon,JOB-001,MSc Data Science,4,"[""Python"", ""SQL"", ""Excel"", ""Pandas"", ""Statistics"", ""Power BI""]","[""Customer Segmentation"", ""Revenue Forecasting""]",high,synthetic_demo
+C010,Kiran Joseph,JOB-002,BTech IT,2,"[""Python"", ""Flask"", ""SQL"", ""REST API""]","[""Task Management API""]",medium,synthetic_demo

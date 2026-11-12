@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "file_name": "data_analyst.txt",
+        "file_type": "TXT",
+        "processed_at": "2026-08-09T16:03:11.871942"
+    },
+    "job_profile": {
+        "role_name": "data analyst",
+        "required_skills": [
+            "python",
+            "sql",
+            "machine learning",
+            "data analysis",
+            "excel",
+            "power bi",
+            "communication"
+        ],
+        "experience": {
+            "minimum_years": 2
+        },
+        "education_preferences": [
+            "bachelor"
+        ],
+        "requirement_sections": [
+            "requirements"
+        ],
+        "normalized_description": "Data Analyst\n\nWe are looking for a Data Analyst to join our analytics team.\n\nResponsibilities:\n- Analyze business data and prepare reports.\n- Build dashboards.\n- Work with business stakeholders.\n- Identify trends and insights.\n\nRequirements:\n- 2+ years of experience in data analysis.\n- Bachelor degree in Computer Science, Statistics, Mathematics or related field.\n- Strong Python and SQL skills.\n- Experience with Microsoft Excel and Power BI.\n- Good communication skills.\n- Knowledge of machine learning is an advantage."
+    }
+}

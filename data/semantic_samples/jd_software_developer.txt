@@ -1,0 +1,11 @@
+﻿JOB DESCRIPTION
+
+Skills:
+Python, Java, JavaScript, SQL, Git
+
+Experience:
+Looking for a Software Developer experienced in backend
+development, APIs, web applications and software engineering.
+
+Projects:
+Develop APIs and web applications using modern programming technologies.

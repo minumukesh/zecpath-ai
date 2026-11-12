@@ -1,0 +1,68 @@
+﻿[
+  {
+    "candidate_id": "CAND026001",
+    "questions": [
+      {
+        "question_id": "Q001",
+        "question": "Which technical skills do you have?",
+        "answer": "I have practical experience with Python, SQL and Excel, and I have used them for data analysis projects.",
+        "expected_keywords": ["Python", "SQL", "Excel"],
+        "required_fields": ["Python", "SQL", "Excel"]
+      },
+      {
+        "question_id": "Q002",
+        "question": "How much relevant work experience do you have?",
+        "answer": "I have two years of experience working on reporting and data analysis projects.",
+        "expected_keywords": ["experience", "reporting", "data analysis"],
+        "required_fields": ["years", "experience"]
+      },
+      {
+        "question_id": "Q003",
+        "question": "When can you join the organization?",
+        "answer": "I am available to join immediately.",
+        "expected_keywords": ["join", "immediately"],
+        "required_fields": ["join"]
+      },
+      {
+        "question_id": "Q004",
+        "question": "What are your salary expectations?",
+        "answer": "My expected salary is 5 LPA, depending on the role and responsibilities.",
+        "expected_keywords": ["salary", "5 LPA"],
+        "required_fields": ["salary", "LPA"]
+      }
+    ]
+  },
+  {
+    "candidate_id": "CAND026002",
+    "questions": [
+      {
+        "question_id": "Q001",
+        "question": "Which technical skills do you have?",
+        "answer": "Python.",
+        "expected_keywords": ["Python", "SQL", "Excel"],
+        "required_fields": ["Python", "SQL", "Excel"]
+      },
+      {
+        "question_id": "Q002",
+        "question": "How much relevant work experience do you have?",
+        "answer": "",
+        "expected_keywords": ["experience", "reporting", "data analysis"],
+        "required_fields": ["years", "experience"]
+      },
+      {
+        "question_id": "Q003",
+        "question": "When can you join the organization?",
+        "answer": "Maybe next month.",
+        "expected_keywords": ["join", "available"],
+        "required_fields": ["join"]
+      },
+      {
+        "question_id": "Q004",
+        "question": "What are your salary expectations?",
+        "answer": "I am not sure about my salary expectation yet.",
+        "expected_keywords": ["salary", "expectation"],
+        "required_fields": ["salary"]
+      }
+    ]
+  }
+]

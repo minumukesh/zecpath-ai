@@ -1,0 +1,23 @@
+RESUME
+
+Candidate ID: C008
+Name: Vishnu Raj
+Target Role: Business Analyst
+
+PROFESSIONAL SUMMARY
+Business graduate interested in business analysis.
+
+EDUCATION
+BBA
+
+WORK EXPERIENCE
+0 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Excel, Communication, Documentation
+
+PROJECTS
+- Market Research Assignment
+
+NOTE
+This is a fictional demonstration resume created for software testing.

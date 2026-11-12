@@ -1,0 +1,12 @@
+﻿RESUME
+
+Skills:
+Python, SQL, Power BI, Excel, Tableau
+
+Experience:
+Data Analyst with 2 years of experience in data analysis,
+reporting, dashboards and business intelligence.
+
+Projects:
+Sales dashboard using Power BI and SQL.
+Customer analysis using Python and pandas.

@@ -1,0 +1,147 @@
+﻿# Day 68 - Module Validation Report
+
+## Objective
+Inspect the Python source structure and validate source compilation.
+
+## Source Structure
+
+Python source files found: 132
+
+## Syntax Validation
+
+Result: PASS
+
+## Module Inventory
+
+- src\__init__.py
+- src\answer_understanding\classifier.py
+- src\answer_understanding\engine.py
+- src\answer_understanding\extractor.py
+- src\answer_understanding\semantic_object.py
+- src\answer_understanding\__init__.py
+- src\aptitude_logic\engine.py
+- src\aptitude_logic\__init__.py
+- src\ats_api\api.py
+- src\ats_api\api_before_integration.py
+- src\ats_api\errors.py
+- src\ats_api\job_manager.py
+- src\ats_api\logging_config.py
+- src\ats_api\schemas.py
+- src\ats_api\__init__.py
+- src\ats_optimization\optimized_pipeline.py
+- src\ats_optimization\optimizer.py
+- src\ats_optimization\__init__.py
+- src\ats_pipeline\pipeline.py
+- src\ats_pipeline\__init__.py
+- src\ats_scoring\engine.py
+- src\ats_scoring\__init__.py
+- src\ats_testing\metrics.py
+- src\candidate_ranking\engine.py
+- src\candidate_ranking\__init__.py
+- src\communication_evaluation\engine.py
+- src\communication_evaluation\__init__.py
+- src\confidence_sentiment\confidence.py
+- src\confidence_sentiment\contradictions.py
+- src\confidence_sentiment\engine.py
+- src\confidence_sentiment\response_metrics.py
+- src\confidence_sentiment\sentiment.py
+- src\confidence_sentiment\__init__.py
+- src\confidence_stress\engine.py
+- src\confidence_stress\__init__.py
+- src\conversation_flow\engine.py
+- src\conversation_flow\__init__.py
+- src\day32_finalization\engine.py
+- src\day32_finalization\__init__.py
+- src\day54_optimization\config.py
+- src\day54_optimization\engine.py
+- src\day54_optimization\__init__.py
+- src\day55_governance\config.py
+- src\day55_governance\engine.py
+- src\day55_governance\__init__.py
+- src\day56_simulation\config.py
+- src\day56_simulation\engine.py
+- src\day56_simulation\__init__.py
+- src\dynamic_follow_up\engine.py
+- src\dynamic_follow_up\__init__.py
+- src\edge_case_handling\engine.py
+- src\edge_case_handling\__init__.py
+- src\education_certification\parser.py
+- src\education_certification\__init__.py
+- src\eligibility_decision\engine.py
+- src\eligibility_decision\rules.py
+- src\eligibility_decision\__init__.py
+- src\experience_parser\normalizer.py
+- src\experience_parser\parser.py
+- src\experience_parser\relevance.py
+- src\experience_parser\role_dictionary.py
+- src\experience_parser\__init__.py
+- src\fairness_normalization\fairness.py
+- src\fairness_normalization\normalizer.py
+- src\fairness_normalization\__init__.py
+- src\hr_ai_ethics\config.py
+- src\hr_ai_ethics\engine.py
+- src\hr_ai_ethics\__init__.py
+- src\hr_interview\engine.py
+- src\hr_interview\__init__.py
+- src\hr_interview_optimization\config.py
+- src\hr_interview_optimization\engine.py
+- src\hr_interview_optimization\__init__.py
+- src\hr_interview_scoring\engine.py
+- src\hr_interview_scoring\__init__.py
+- src\hr_interview_simulation\engine.py
+- src\hr_interview_simulation\__init__.py
+- src\hr_screening_dataset\dataset_builder.py
+- src\hr_screening_dataset\__init__.py
+- src\interview_summary\engine.py
+- src\interview_summary\__init__.py
+- src\interview_system\api.py
+- src\interview_system\behavioral_analysis_engine.py
+- src\interview_system\config.py
+- src\interview_system\cross_round_aggregation_engine.py
+- src\interview_system\final_recommendation_engine.py
+- src\interview_system\hiring_intelligence_report_generator.py
+- src\interview_system\hr_engine.py
+- src\interview_system\machine_test_engine.py
+- src\interview_system\malpractice_detection_engine.py
+- src\interview_system\technical_engine.py
+- src\interview_system\technical_scoring_engine.py
+- src\interview_system\__init__.py
+- src\jd_parser\extractor.py
+- src\jd_parser\normalizer.py
+- src\jd_parser\parser.py
+- src\jd_parser\skill_dictionary.py
+- src\jd_parser\__init__.py
+- src\resume_extraction\docx_reader.py
+- src\resume_extraction\extractor.py
+- src\resume_extraction\main.py
+- src\resume_extraction\pdf_reader.py
+- src\resume_extraction\text_cleaner.py
+- src\resume_extraction\__init__.py
+- src\resume_section_classifier\classifier.py
+- src\resume_section_classifier\classifier_before_project_fix.py
+- src\resume_section_classifier\detector.py
+- src\resume_section_classifier\normalizer.py
+- src\resume_section_classifier\section_dictionary.py
+- src\resume_section_classifier\__init__.py
+- src\screening_optimization\engine.py
+- src\screening_optimization\__init__.py
+- src\screening_report\builder.py
+- src\screening_report\__init__.py
+- src\screening_scoring\engine.py
+- src\screening_scoring\parameters.py
+- src\screening_scoring\question_scorer.py
+- src\screening_scoring\__init__.py
+- src\semantic_matching\engine.py
+- src\semantic_matching\__init__.py
+- src\skill_extraction\extractor.py
+- src\skill_extraction\normalizer.py
+- src\skill_extraction\skill_dictionary.py
+- src\skill_extraction\__init__.py
+- src\transcript_architecture\metadata.py
+- src\transcript_architecture\normalizer.py
+- src\transcript_architecture\schemas.py
+- src\transcript_architecture\storage.py
+- src\transcript_architecture\__init__.py
+- src\unified_scoring\config.py
+- src\unified_scoring\engine.py
+- src\unified_scoring\__init__.py

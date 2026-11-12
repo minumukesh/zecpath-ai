@@ -1,0 +1,23 @@
+RESUME
+
+Candidate ID: C002
+Name: Diya Nair
+Target Role: Data Analyst
+
+PROFESSIONAL SUMMARY
+Recent graduate interested in data analytics.
+
+EDUCATION
+BSc Statistics
+
+WORK EXPERIENCE
+0 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, Excel, Statistics, SQL
+
+PROJECTS
+- Student Performance Analysis
+
+NOTE
+This is a fictional demonstration resume created for software testing.

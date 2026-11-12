@@ -1,0 +1,24 @@
+RESUME
+
+Candidate ID: C004
+Name: Meera Krishnan
+Target Role: Python Developer
+
+PROFESSIONAL SUMMARY
+Python backend developer experienced in API development.
+
+EDUCATION
+BTech Computer Science
+
+WORK EXPERIENCE
+3 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, Flask, SQL, REST API, Git, Docker
+
+PROJECTS
+- Inventory API
+- Employee Management System
+
+NOTE
+This is a fictional demonstration resume created for software testing.

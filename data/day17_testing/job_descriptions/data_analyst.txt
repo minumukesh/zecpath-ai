@@ -1,0 +1,22 @@
+JOB TITLE: Data Analyst
+
+ROLE: Data Analyst
+
+REQUIREMENTS
+We are looking for a Data Analyst who can work with business data and create useful insights.
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Statistics
+
+EXPERIENCE
+Freshers can apply. Experience in data analysis is preferred.
+
+EDUCATION
+Computer Science, Information Technology, Data Science, Statistics or related field.
+
+RESPONSIBILITIES
+Analyze datasets.
+Create dashboards and reports.
+Write SQL queries.
+Use Python for data analysis.
+Communicate analytical findings.

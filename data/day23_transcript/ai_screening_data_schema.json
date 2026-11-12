@@ -1,0 +1,21 @@
+{
+  "schema_name": "zecpath_ai_screening_interaction",
+  "version": "1.0",
+  "description": "Structured question-answer object for AI screening.",
+  "fields": {
+    "candidate_id": "string",
+    "job_id": "string",
+    "question_id": "string",
+    "timestamp": "ISO-8601 datetime",
+    "confidence_level": "float 0.0-1.0",
+    "question": {
+      "question_id": "string",
+      "text": "string"
+    },
+    "answer": {
+      "text": "string",
+      "language": "string"
+    },
+    "interaction_status": "completed | incomplete"
+  }
+}

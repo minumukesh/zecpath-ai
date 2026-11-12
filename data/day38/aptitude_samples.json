@@ -1,0 +1,55 @@
+﻿[
+  {
+    "question_id": "D38-Q001",
+    "question_type": "reasoning",
+    "question": "How would you investigate a report that shows incorrect totals?",
+    "answer": "First, I would check the source data. Then I would compare the calculation with the expected result because this can help identify the error.",
+    "reference_points": [
+      "source data",
+      "compare",
+      "identify the error"
+    ],
+    "reviewer_scores": {
+      "reasoning": 90,
+      "approach": 85,
+      "problem_solving": 88,
+      "clarity": 90
+    }
+  },
+  {
+    "question_id": "D38-Q002",
+    "question_type": "situational",
+    "question": "A teammate disagrees with your proposed solution. What would you do?",
+    "answer": "I would listen to their concerns, compare both options, and explain the reasons for my suggestion. Then we could test the options and choose the one that works best.",
+    "reference_points": [
+      "listen",
+      "compare",
+      "test",
+      "choose"
+    ],
+    "reviewer_scores": {
+      "reasoning": 85,
+      "approach": 90,
+      "problem_solving": 88,
+      "clarity": 85
+    }
+  },
+  {
+    "question_id": "D38-Q003",
+    "question_type": "problem_solving",
+    "question": "How would you handle an application that suddenly stops working?",
+    "answer": "First, I would reproduce the issue and check the error logs. Next, I would test possible causes, apply a fix, and verify the result.",
+    "reference_points": [
+      "reproduce",
+      "error logs",
+      "test",
+      "verify"
+    ],
+    "reviewer_scores": {
+      "reasoning": 88,
+      "approach": 90,
+      "problem_solving": 92,
+      "clarity": 87
+    }
+  }
+]

@@ -1,0 +1,24 @@
+RESUME
+
+Candidate ID: C009
+Name: Ananya Menon
+Target Role: Data Analyst
+
+PROFESSIONAL SUMMARY
+Data professional experienced in analytical reporting and statistical analysis.
+
+EDUCATION
+MSc Data Science
+
+WORK EXPERIENCE
+4 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, SQL, Excel, Pandas, Statistics, Power BI
+
+PROJECTS
+- Customer Segmentation
+- Revenue Forecasting
+
+NOTE
+This is a fictional demonstration resume created for software testing.

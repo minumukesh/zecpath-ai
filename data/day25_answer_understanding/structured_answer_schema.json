@@ -1,0 +1,21 @@
+{
+  "schema_name": "zecpath_structured_candidate_answer",
+  "version": "1.0",
+  "fields": {
+    "answer_text": "string",
+    "intent": "string",
+    "answer_status": [
+      "VALID",
+      "PARTIAL",
+      "MISSING_OR_VAGUE",
+      "OFF_TOPIC"
+    ],
+    "confidence": "float between 0.0 and 1.0",
+    "semantic_data": {
+      "skills": "list of strings",
+      "experience": "object",
+      "availability": "object",
+      "salary": "object"
+    }
+  }
+}

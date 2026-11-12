@@ -1,24 +1,87 @@
-# Virtual Environment
-venv/
-
-# Python Cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Pytest Cache
+﻿__pycache__/
+*.py[cod]
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
-# Environment Variables
+venv/
+.venv/
+
 .env
+.env.*
+!.env.example
+*.pem
+*.key
 
-# Logs
-logs/
-*.log
-
-# IDE / Editor
 .vscode/
-
-# OS Files
+.idea/
 .DS_Store
 Thumbs.db
+
+logs/
+outputs/
+secure_storage/
+data/resumes/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+repository_preparation_backup/
+.repository_backup/
+zecpath-ai/
+*.bak
+*.day57_backup*
+
+complete_import_audit.txt
+project_structure.txt
+
+# Local databases and generated files
+*.db
+*.bak
+*.zip
+*.tmp
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Local project backups and nested repositories
+repository_preparation_backup/
+.repository_backup/
+zecpath-ai/
+
+# Local audit and preparation reports
+IMPORT_COMPATIBILITY_AUDIT.txt
+MIGRATION_MAP.csv
+repository_structure_before_reorganization.txt
+
+# Private or unverified candidate data
+data/resumes/raw/
+data/resumes/structured/
+data/resumes/labeled/
+data/resumes/samples/
+data/resumes/skill_samples/
+data/fairness_samples/
+
+# Local database files
+*.db
+
+# Temporary debugging reports
+day57_full_test_report.txt
+day57_test_errors.txt
+
+# Backup and temporary source files
+*_backup.py
+*.bak
+*.day57_backup*
+.gitignore.before_cleanup.bak
+
+# Old or superseded dependency files
+requirements_day6.txt
+
+# Additional backup scripts
+*_backup*.py

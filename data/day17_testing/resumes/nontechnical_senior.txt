@@ -1,0 +1,32 @@
+CANDIDATE: NS001
+NAME: Anjali Nair
+
+SUMMARY
+Senior Business Analyst with 7 years of experience in business operations, requirements gathering and stakeholder management.
+
+SKILLS
+Business Analysis, Requirements Gathering, Stakeholder Management, Communication, Excel, PowerPoint, Documentation, Process Improvement
+
+EXPERIENCE
+Senior Business Analyst - ABC Solutions
+2020 - 2026
+
+Business Analyst - XYZ Services
+2018 - 2020
+
+Business Operations Executive - LMN Company
+2017 - 2018
+
+EDUCATION
+Master of Business Administration
+XYZ University
+2017
+
+PROJECTS
+Led business process improvement project.
+Prepared requirements documentation and stakeholder reports.
+Supported implementation of a customer management system.
+
+CERTIFICATIONS
+Business Analysis
+Project Management

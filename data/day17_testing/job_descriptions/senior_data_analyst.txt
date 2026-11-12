@@ -1,0 +1,23 @@
+JOB TITLE: Senior Data Analyst
+
+ROLE: Data Analyst
+
+REQUIREMENTS
+We are looking for an experienced Data Analyst to work with business data and reporting.
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Tableau, Statistics
+
+EXPERIENCE
+3 or more years of relevant data analytics experience.
+
+EDUCATION
+Computer Science, Information Technology, Data Science, Statistics or related field.
+
+RESPONSIBILITIES
+Analyze large datasets.
+Build dashboards.
+Create business reports.
+Write SQL queries.
+Develop analytical models.
+Work with stakeholders.

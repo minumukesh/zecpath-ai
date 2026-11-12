@@ -1,0 +1,74 @@
+[
+    {
+        "job_id": "JOB-001",
+        "job_title": "Data Analyst",
+        "department": "Analytics",
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Excel"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Statistics",
+            "Pandas"
+        ],
+        "minimum_experience": 0,
+        "education": "Bachelor's Degree",
+        "responsibilities": [
+            "Analyze business data",
+            "Prepare reports",
+            "Create dashboards",
+            "Identify business trends"
+        ],
+        "employment_type": "Full-time"
+    },
+    {
+        "job_id": "JOB-002",
+        "job_title": "Python Developer",
+        "department": "Engineering",
+        "required_skills": [
+            "Python",
+            "Flask",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "REST API",
+            "Git",
+            "Docker"
+        ],
+        "minimum_experience": 1,
+        "education": "Bachelor's Degree",
+        "responsibilities": [
+            "Develop Python applications",
+            "Build REST APIs",
+            "Maintain backend services",
+            "Debug application issues"
+        ],
+        "employment_type": "Full-time"
+    },
+    {
+        "job_id": "JOB-003",
+        "job_title": "Business Analyst",
+        "department": "Business Operations",
+        "required_skills": [
+            "Business Analysis",
+            "Excel",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Documentation"
+        ],
+        "minimum_experience": 0,
+        "education": "Bachelor's Degree",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze business processes",
+            "Prepare reports",
+            "Coordinate with stakeholders"
+        ],
+        "employment_type": "Full-time"
+    }
+]

@@ -1,0 +1,23 @@
+RESUME
+
+Candidate ID: C003
+Name: Rahul Varma
+Target Role: Data Analyst
+
+PROFESSIONAL SUMMARY
+Looking for an opportunity in analytics.
+
+EDUCATION
+BCA
+
+WORK EXPERIENCE
+1 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Excel, Power BI, Communication
+
+PROJECTS
+No projects listed
+
+NOTE
+This is a fictional demonstration resume created for software testing.

@@ -1,0 +1,11 @@
+﻿candidate_id,job_id,screening_status,screening_response,skills_identified,review_required,source
+C001,JOB-001,PASSED,I use SQL to extract data and Python for analysis. I use Power BI to communicate findings.,"[""Python"", ""SQL"", ""Excel"", ""Power BI"", ""Pandas""]",False,simulated
+C002,JOB-001,PASSED,I have academic experience in statistics and basic Python analysis.,"[""Python"", ""Excel"", ""Statistics"", ""SQL""]",False,simulated
+C003,JOB-001,NOT_QUALIFIED,I have worked with spreadsheets and created basic reports.,"[""Excel"", ""Power BI"", ""Communication""]",True,simulated
+C004,JOB-002,PASSED,I have developed Flask APIs and integrated relational databases.,"[""Python"", ""Flask"", ""SQL"", ""REST API"", ""Git"", ""Docker""]",False,simulated
+C005,JOB-002,MANUAL_REVIEW,I have used Python and SQL in college projects.,"[""Python"", ""SQL"", ""Git""]",True,simulated
+C006,JOB-002,NOT_QUALIFIED,I have studied programming and web technologies.,"[""Java"", ""HTML"", ""CSS"", ""Communication""]",True,simulated
+C007,JOB-003,PASSED,"I gather requirements, document processes, and analyze operational performance.","[""Business Analysis"", ""Excel"", ""Communication"", ""Power BI"", ""SQL""]",False,simulated
+C008,JOB-003,MANUAL_REVIEW,I have experience preparing reports and documenting project requirements.,"[""Excel"", ""Communication"", ""Documentation""]",True,simulated
+C009,JOB-001,PASSED,"I analyze large datasets, identify patterns, and communicate findings to business teams.","[""Python"", ""SQL"", ""Excel"", ""Pandas"", ""Statistics"", ""Power BI""]",False,simulated
+C010,JOB-002,PASSED,I have created backend routes and connected applications to SQL databases.,"[""Python"", ""Flask"", ""SQL"", ""REST API""]",False,simulated

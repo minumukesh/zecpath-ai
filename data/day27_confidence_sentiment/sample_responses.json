@@ -1,0 +1,52 @@
+﻿[
+  {
+    "candidate_id": "CAND027001",
+    "responses": [
+      {
+        "response_id": "R001",
+        "text": "I successfully completed a Python project and improved the reporting process.",
+        "duration_seconds": 20
+      },
+      {
+        "response_id": "R002",
+        "text": "Um, I think I have two years of experience in data analysis.",
+        "duration_seconds": 12
+      },
+      {
+        "response_id": "R003",
+        "text": "I enjoy working with teams and solving difficult problems.",
+        "duration_seconds": 15
+      },
+      {
+        "response_id": "R004",
+        "text": "Maybe I can join next month. I am not completely sure.",
+        "duration_seconds": 10
+      }
+    ]
+  },
+  {
+    "candidate_id": "CAND027002",
+    "responses": [
+      {
+        "response_id": "R001",
+        "text": "I have experience working with SQL and Excel.",
+        "duration_seconds": 10
+      },
+      {
+        "response_id": "R002",
+        "text": "I have no experience with Python.",
+        "duration_seconds": 8
+      },
+      {
+        "response_id": "R003",
+        "text": "I have experience with Python and SQL.",
+        "duration_seconds": 9
+      },
+      {
+        "response_id": "R004",
+        "text": "I feel worried about the interview, but I am motivated to learn.",
+        "duration_seconds": 13
+      }
+    ]
+  }
+]

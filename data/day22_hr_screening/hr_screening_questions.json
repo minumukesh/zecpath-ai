@@ -1,0 +1,693 @@
+{
+  "dataset_id": "zecpath_hr_screening_day22",
+  "version": "1.0",
+  "language_strategy": {
+    "default_language": "en",
+    "supported_languages": [
+      "en",
+      "ml",
+      "hi"
+    ],
+    "translation_status": "English seed dataset; Malayalam and Hindi fields are reserved for future localization."
+  },
+  "roles": [
+    "Data Analyst",
+    "Software Developer",
+    "Business Analyst",
+    "HR Executive"
+  ],
+  "categories": [
+    "introduction",
+    "education",
+    "experience",
+    "skills",
+    "location",
+    "salary",
+    "notice_period"
+  ],
+  "question_count": 28,
+  "question_category_mapping": {
+    "introduction": {
+      "expected_answer_type": "text",
+      "mandatory": false,
+      "scoring_importance": 3,
+      "template_id": "intro_01"
+    },
+    "education": {
+      "expected_answer_type": "text",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "education_01"
+    },
+    "experience": {
+      "expected_answer_type": "number_years",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "experience_01"
+    },
+    "skills": {
+      "expected_answer_type": "skill_list",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "skills_01"
+    },
+    "location": {
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "location_01"
+    },
+    "salary": {
+      "expected_answer_type": "currency_range",
+      "mandatory": false,
+      "scoring_importance": 2,
+      "template_id": "salary_01"
+    },
+    "notice_period": {
+      "expected_answer_type": "notice_period",
+      "mandatory": true,
+      "scoring_importance": 4,
+      "template_id": "notice_01"
+    }
+  },
+  "reusable_question_templates": {
+    "introduction": {
+      "template_id": "intro_01",
+      "template_text": "Please briefly introduce yourself and explain why you are interested in the {role} role."
+    },
+    "education": {
+      "template_id": "education_01",
+      "template_text": "What is your highest qualification, and how is it relevant to {role}?"
+    },
+    "experience": {
+      "template_id": "experience_01",
+      "template_text": "How many years of relevant experience do you have for the {role} role?"
+    },
+    "skills": {
+      "template_id": "skills_01",
+      "template_text": "Which skills, tools, or technologies relevant to {role} are you comfortable using?"
+    },
+    "location": {
+      "template_id": "location_01",
+      "template_text": "What is your current location and which work locations are you comfortable with for the {role} role?"
+    },
+    "salary": {
+      "template_id": "salary_01",
+      "template_text": "What are your current and expected annual salary ranges for the {role} role?"
+    },
+    "notice_period": {
+      "template_id": "notice_01",
+      "template_text": "What is your current notice period, and when could you join if selected for the {role} role?"
+    }
+  },
+  "questions": [
+    {
+      "question_id": "HRQ001",
+      "role": "Data Analyst",
+      "category": "introduction",
+      "question": "Please briefly introduce yourself and explain why you are interested in the Data Analyst role.",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ001",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": false,
+      "scoring_importance": 3,
+      "template_id": "intro_01"
+    },
+    {
+      "question_id": "HRQ002",
+      "role": "Data Analyst",
+      "category": "education",
+      "question": "What is your highest qualification, and how is it relevant to data analytics?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ002",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "education_01"
+    },
+    {
+      "question_id": "HRQ003",
+      "role": "Data Analyst",
+      "category": "experience",
+      "question": "How many years of relevant experience do you have in data analysis or a similar role?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ003",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "number_years",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "experience_01"
+    },
+    {
+      "question_id": "HRQ004",
+      "role": "Data Analyst",
+      "category": "skills",
+      "question": "Which analytics tools, programming languages, databases, or BI tools are you comfortable using?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ004",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "skill_list",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "skills_01"
+    },
+    {
+      "question_id": "HRQ005",
+      "role": "Data Analyst",
+      "category": "location",
+      "question": "What is your current location and which work locations are you comfortable with?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ005",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "location_01"
+    },
+    {
+      "question_id": "HRQ006",
+      "role": "Data Analyst",
+      "category": "salary",
+      "question": "What are your current and expected annual salary ranges for this Data Analyst role?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ006",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "currency_range",
+      "mandatory": false,
+      "scoring_importance": 2,
+      "template_id": "salary_01"
+    },
+    {
+      "question_id": "HRQ007",
+      "role": "Data Analyst",
+      "category": "notice_period",
+      "question": "What is your current notice period, and when could you join if selected?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ007",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "notice_period",
+      "mandatory": true,
+      "scoring_importance": 4,
+      "template_id": "notice_01"
+    },
+    {
+      "question_id": "HRQ008",
+      "role": "Software Developer",
+      "category": "introduction",
+      "question": "Please briefly introduce yourself and explain why you are interested in the Software Developer role.",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ008",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": false,
+      "scoring_importance": 3,
+      "template_id": "intro_01"
+    },
+    {
+      "question_id": "HRQ009",
+      "role": "Software Developer",
+      "category": "education",
+      "question": "What is your highest qualification, and how is it relevant to software development?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ009",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "education_01"
+    },
+    {
+      "question_id": "HRQ010",
+      "role": "Software Developer",
+      "category": "experience",
+      "question": "How many years of relevant software development experience do you have?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ010",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "number_years",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "experience_01"
+    },
+    {
+      "question_id": "HRQ011",
+      "role": "Software Developer",
+      "category": "skills",
+      "question": "Which programming languages, frameworks, databases, or development tools are you comfortable using?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ011",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "skill_list",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "skills_01"
+    },
+    {
+      "question_id": "HRQ012",
+      "role": "Software Developer",
+      "category": "location",
+      "question": "What is your current location and which work locations are you comfortable with?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ012",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "location_01"
+    },
+    {
+      "question_id": "HRQ013",
+      "role": "Software Developer",
+      "category": "salary",
+      "question": "What are your current and expected annual salary ranges for this Software Developer role?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ013",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "currency_range",
+      "mandatory": false,
+      "scoring_importance": 2,
+      "template_id": "salary_01"
+    },
+    {
+      "question_id": "HRQ014",
+      "role": "Software Developer",
+      "category": "notice_period",
+      "question": "What is your current notice period, and when could you join if selected?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ014",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "notice_period",
+      "mandatory": true,
+      "scoring_importance": 4,
+      "template_id": "notice_01"
+    },
+    {
+      "question_id": "HRQ015",
+      "role": "Business Analyst",
+      "category": "introduction",
+      "question": "Please briefly introduce yourself and explain why you are interested in the Business Analyst role.",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ015",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": false,
+      "scoring_importance": 3,
+      "template_id": "intro_01"
+    },
+    {
+      "question_id": "HRQ016",
+      "role": "Business Analyst",
+      "category": "education",
+      "question": "What is your highest qualification, and how is it relevant to business analysis?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ016",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "education_01"
+    },
+    {
+      "question_id": "HRQ017",
+      "role": "Business Analyst",
+      "category": "experience",
+      "question": "How many years of relevant business analysis or requirements-related experience do you have?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ017",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "number_years",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "experience_01"
+    },
+    {
+      "question_id": "HRQ018",
+      "role": "Business Analyst",
+      "category": "skills",
+      "question": "Which business analysis, documentation, communication, process, or reporting tools are you comfortable using?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ018",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "skill_list",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "skills_01"
+    },
+    {
+      "question_id": "HRQ019",
+      "role": "Business Analyst",
+      "category": "location",
+      "question": "What is your current location and which work locations are you comfortable with?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ019",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "location_01"
+    },
+    {
+      "question_id": "HRQ020",
+      "role": "Business Analyst",
+      "category": "salary",
+      "question": "What are your current and expected annual salary ranges for this Business Analyst role?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ020",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "currency_range",
+      "mandatory": false,
+      "scoring_importance": 2,
+      "template_id": "salary_01"
+    },
+    {
+      "question_id": "HRQ021",
+      "role": "Business Analyst",
+      "category": "notice_period",
+      "question": "What is your current notice period, and when could you join if selected?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ021",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "notice_period",
+      "mandatory": true,
+      "scoring_importance": 4,
+      "template_id": "notice_01"
+    },
+    {
+      "question_id": "HRQ022",
+      "role": "HR Executive",
+      "category": "introduction",
+      "question": "Please briefly introduce yourself and explain why you are interested in the HR Executive role.",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ022",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": false,
+      "scoring_importance": 3,
+      "template_id": "intro_01"
+    },
+    {
+      "question_id": "HRQ023",
+      "role": "HR Executive",
+      "category": "education",
+      "question": "What is your highest qualification, and how is it relevant to human resources?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ023",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "text",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "education_01"
+    },
+    {
+      "question_id": "HRQ024",
+      "role": "HR Executive",
+      "category": "experience",
+      "question": "How many years of relevant HR, recruitment, or people-operations experience do you have?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ024",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "number_years",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "experience_01"
+    },
+    {
+      "question_id": "HRQ025",
+      "role": "HR Executive",
+      "category": "skills",
+      "question": "Which HR, recruitment, communication, documentation, or HRIS tools are you comfortable using?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ025",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "skill_list",
+      "mandatory": true,
+      "scoring_importance": 5,
+      "template_id": "skills_01"
+    },
+    {
+      "question_id": "HRQ026",
+      "role": "HR Executive",
+      "category": "location",
+      "question": "What is your current location and which work locations are you comfortable with?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ026",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "location",
+      "mandatory": true,
+      "scoring_importance": 3,
+      "template_id": "location_01"
+    },
+    {
+      "question_id": "HRQ027",
+      "role": "HR Executive",
+      "category": "salary",
+      "question": "What are your current and expected annual salary ranges for this HR Executive role?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ027",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "currency_range",
+      "mandatory": false,
+      "scoring_importance": 2,
+      "template_id": "salary_01"
+    },
+    {
+      "question_id": "HRQ028",
+      "role": "HR Executive",
+      "category": "notice_period",
+      "question": "What is your current notice period, and when could you join if selected?",
+      "language": "en",
+      "supported_languages": [
+        "en",
+        "ml",
+        "hi"
+      ],
+      "translation_key": "HRQ028",
+      "translations": {
+        "ml": null,
+        "hi": null
+      },
+      "expected_answer_type": "notice_period",
+      "mandatory": true,
+      "scoring_importance": 4,
+      "template_id": "notice_01"
+    }
+  ]
+}

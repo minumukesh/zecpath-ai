@@ -1,0 +1,30 @@
+{
+  "introduction": {
+    "template_id": "intro_01",
+    "template_text": "Please briefly introduce yourself and explain why you are interested in the {role} role."
+  },
+  "education": {
+    "template_id": "education_01",
+    "template_text": "What is your highest qualification, and how is it relevant to {role}?"
+  },
+  "experience": {
+    "template_id": "experience_01",
+    "template_text": "How many years of relevant experience do you have for the {role} role?"
+  },
+  "skills": {
+    "template_id": "skills_01",
+    "template_text": "Which skills, tools, or technologies relevant to {role} are you comfortable using?"
+  },
+  "location": {
+    "template_id": "location_01",
+    "template_text": "What is your current location and which work locations are you comfortable with for the {role} role?"
+  },
+  "salary": {
+    "template_id": "salary_01",
+    "template_text": "What are your current and expected annual salary ranges for the {role} role?"
+  },
+  "notice_period": {
+    "template_id": "notice_01",
+    "template_text": "What is your current notice period, and when could you join if selected for the {role} role?"
+  }
+}

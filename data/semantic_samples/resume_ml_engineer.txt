@@ -1,0 +1,12 @@
+﻿RESUME
+
+Skills:
+Python, pandas, NumPy, machine learning, TensorFlow
+
+Experience:
+Machine Learning Engineer experienced in predictive modelling,
+data processing and artificial intelligence.
+
+Projects:
+Built a machine learning prediction system using Python
+and TensorFlow.

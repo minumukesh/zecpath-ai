@@ -1,0 +1,38 @@
+﻿[
+  {
+    "scenario": "Missing answer",
+    "interview_id": "D34-INT-001",
+    "candidate_id": "D34-C001",
+    "role": "Data Analyst",
+    "question_id": "Q001",
+    "question": "Could you introduce yourself?",
+    "answer": ""
+  },
+  {
+    "scenario": "Vague answer",
+    "interview_id": "D34-INT-002",
+    "candidate_id": "D34-C002",
+    "role": "Data Analyst",
+    "question_id": "Q002",
+    "question": "What are your strengths?",
+    "answer": "It was good."
+  },
+  {
+    "scenario": "Brief answer",
+    "interview_id": "D34-INT-003",
+    "candidate_id": "D34-C003",
+    "role": "Software Developer",
+    "question_id": "Q003",
+    "question": "Tell me about a project.",
+    "answer": "I built a web application."
+  },
+  {
+    "scenario": "Detailed answer with example",
+    "interview_id": "D34-INT-004",
+    "candidate_id": "D34-C004",
+    "role": "Software Developer",
+    "question_id": "Q004",
+    "question": "Describe a challenge.",
+    "answer": "In my previous role, I fixed a deployment issue because the configuration was incorrect. As a result, the team restored the service and I learned to test configuration changes carefully."
+  }
+]

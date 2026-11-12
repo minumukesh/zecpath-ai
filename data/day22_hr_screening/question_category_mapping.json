@@ -1,0 +1,44 @@
+{
+  "introduction": {
+    "expected_answer_type": "text",
+    "mandatory": false,
+    "scoring_importance": 3,
+    "template_id": "intro_01"
+  },
+  "education": {
+    "expected_answer_type": "text",
+    "mandatory": true,
+    "scoring_importance": 3,
+    "template_id": "education_01"
+  },
+  "experience": {
+    "expected_answer_type": "number_years",
+    "mandatory": true,
+    "scoring_importance": 5,
+    "template_id": "experience_01"
+  },
+  "skills": {
+    "expected_answer_type": "skill_list",
+    "mandatory": true,
+    "scoring_importance": 5,
+    "template_id": "skills_01"
+  },
+  "location": {
+    "expected_answer_type": "location",
+    "mandatory": true,
+    "scoring_importance": 3,
+    "template_id": "location_01"
+  },
+  "salary": {
+    "expected_answer_type": "currency_range",
+    "mandatory": false,
+    "scoring_importance": 2,
+    "template_id": "salary_01"
+  },
+  "notice_period": {
+    "expected_answer_type": "notice_period",
+    "mandatory": true,
+    "scoring_importance": 4,
+    "template_id": "notice_01"
+  }
+}

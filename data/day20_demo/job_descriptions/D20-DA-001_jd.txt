@@ -1,0 +1,14 @@
+Job Title: Data Analyst
+
+Experience:
+Freshers can apply.
+
+Education:
+Computer Science, Information Technology, Data Science or Statistics.
+
+Required Skills:
+Python, SQL, Excel, Pandas, NumPy, Power BI, Statistics.
+
+Responsibilities:
+Analyze business data, prepare reports, create dashboards,
+identify trends and communicate insights.

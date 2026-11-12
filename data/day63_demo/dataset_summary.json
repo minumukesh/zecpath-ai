@@ -1,0 +1,14 @@
+{
+    "project": "Zecpath AI",
+    "day": 63,
+    "dataset_type": "Synthetic Demonstration Dataset",
+    "created_at": "2026-11-04T08:34:43.210512+00:00",
+    "candidate_count": 10,
+    "job_count": 3,
+    "resume_count": 10,
+    "candidate_response_count": 10,
+    "ats_result_count": 10,
+    "screening_output_count": 10,
+    "interview_response_count": 20,
+    "pipeline_record_count": 10
+}

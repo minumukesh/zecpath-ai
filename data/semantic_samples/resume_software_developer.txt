@@ -1,0 +1,12 @@
+﻿RESUME
+
+Skills:
+Python, Java, JavaScript, SQL, Git
+
+Experience:
+Software Developer with 3 years of experience developing
+web applications, APIs and backend services.
+
+Projects:
+Developed REST APIs using Python.
+Built web applications using JavaScript.

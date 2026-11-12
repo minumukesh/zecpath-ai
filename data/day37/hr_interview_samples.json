@@ -1,0 +1,74 @@
+﻿[
+  {
+    "candidate_id": "HR37-001",
+    "candidate_name": "Arun Kumar",
+    "role": "Data Analyst",
+    "communication_score": 82,
+    "confidence_score": 78,
+    "consistency_score": 85,
+    "questions": [
+      {
+        "question_id": "Q1",
+        "question": "Tell me about yourself.",
+        "answer": "I completed a computer science degree and worked on a data analytics project.",
+        "answer_relevance": 85
+      },
+      {
+        "question_id": "Q2",
+        "question": "Why are you interested in this role?",
+        "answer": "I enjoy analyzing data and explaining findings using charts and reports.",
+        "answer_relevance": 90
+      },
+      {
+        "question_id": "Q3",
+        "question": "Describe a challenge you handled.",
+        "answer": "I had missing data in a project, checked the records, and documented the cleaning steps.",
+        "answer_relevance": 80
+      }
+    ]
+  },
+  {
+    "candidate_id": "HR37-002",
+    "candidate_name": "Meera Joseph",
+    "role": "Business Analyst",
+    "communication_score": 70,
+    "confidence_score": 65,
+    "consistency_score": 72,
+    "questions": [
+      {
+        "question_id": "Q1",
+        "question": "Tell me about yourself.",
+        "answer": "I studied business administration and completed a team project.",
+        "answer_relevance": 75
+      },
+      {
+        "question_id": "Q2",
+        "question": "How do you handle unclear requirements?",
+        "answer": "I ask questions and confirm the requirements with the people involved.",
+        "answer_relevance": 85
+      }
+    ]
+  },
+  {
+    "candidate_id": "HR37-003",
+    "candidate_name": "Rahul Menon",
+    "role": "Software Developer",
+    "communication_score": 55,
+    "confidence_score": 50,
+    "consistency_score": 60,
+    "questions": [
+      {
+        "question_id": "Q1",
+        "question": "Describe a project you worked on.",
+        "answer": "I worked on a small application.",
+        "answer_relevance": 55
+      },
+      {
+        "question_id": "Q2",
+        "question": "How do you debug a problem?",
+        "answer": "I check the error message and test possible fixes.",
+        "answer_relevance": 60
+      }
+    ]
+  }
+]

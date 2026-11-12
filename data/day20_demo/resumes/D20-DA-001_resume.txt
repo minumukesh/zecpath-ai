@@ -1,0 +1,18 @@
+Name: Arun Kumar
+Candidate ID: D20-DA-001
+
+Education:
+B.Sc Computer Science, 2026
+
+Experience:
+Fresher
+
+Skills:
+Python, SQL, Excel, Pandas, NumPy, Power BI, Statistics, Git
+
+Projects:
+Sales Analytics Dashboard using Python, Pandas, SQL and Power BI.
+Created reports and dashboards for business analysis.
+
+Certifications:
+IBM Python for Data Science

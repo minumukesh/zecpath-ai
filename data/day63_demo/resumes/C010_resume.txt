@@ -1,0 +1,23 @@
+RESUME
+
+Candidate ID: C010
+Name: Kiran Joseph
+Target Role: Python Developer
+
+PROFESSIONAL SUMMARY
+Backend developer familiar with Python application development.
+
+EDUCATION
+BTech IT
+
+WORK EXPERIENCE
+2 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, Flask, SQL, REST API
+
+PROJECTS
+- Task Management API
+
+NOTE
+This is a fictional demonstration resume created for software testing.

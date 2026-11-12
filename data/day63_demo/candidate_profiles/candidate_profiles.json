@@ -1,0 +1,187 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Aarav Menon",
+        "job_id": "JOB-001",
+        "education": "BSc Computer Science",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Power BI",
+            "Pandas"
+        ],
+        "projects": [
+            "Sales Dashboard",
+            "Customer Data Analysis"
+        ],
+        "resume_quality": "high",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Diya Nair",
+        "job_id": "JOB-001",
+        "education": "BSc Statistics",
+        "experience_years": 0,
+        "skills": [
+            "Python",
+            "Excel",
+            "Statistics",
+            "SQL"
+        ],
+        "projects": [
+            "Student Performance Analysis"
+        ],
+        "resume_quality": "medium",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Rahul Varma",
+        "job_id": "JOB-001",
+        "education": "BCA",
+        "experience_years": 1,
+        "skills": [
+            "Excel",
+            "Power BI",
+            "Communication"
+        ],
+        "projects": [],
+        "resume_quality": "low",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C004",
+        "name": "Meera Krishnan",
+        "job_id": "JOB-002",
+        "education": "BTech Computer Science",
+        "experience_years": 3,
+        "skills": [
+            "Python",
+            "Flask",
+            "SQL",
+            "REST API",
+            "Git",
+            "Docker"
+        ],
+        "projects": [
+            "Inventory API",
+            "Employee Management System"
+        ],
+        "resume_quality": "high",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C005",
+        "name": "Arjun Das",
+        "job_id": "JOB-002",
+        "education": "BSc Computer Science",
+        "experience_years": 1,
+        "skills": [
+            "Python",
+            "SQL",
+            "Git"
+        ],
+        "projects": [
+            "Library Management System"
+        ],
+        "resume_quality": "medium",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C006",
+        "name": "Nisha Thomas",
+        "job_id": "JOB-002",
+        "education": "MCA",
+        "experience_years": 0,
+        "skills": [
+            "Java",
+            "HTML",
+            "CSS",
+            "Communication"
+        ],
+        "projects": [
+            "Portfolio Website"
+        ],
+        "resume_quality": "low",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C007",
+        "name": "Ishita Pillai",
+        "job_id": "JOB-003",
+        "education": "MBA",
+        "experience_years": 2,
+        "skills": [
+            "Business Analysis",
+            "Excel",
+            "Communication",
+            "Power BI",
+            "SQL"
+        ],
+        "projects": [
+            "Process Improvement Study",
+            "Sales Reporting"
+        ],
+        "resume_quality": "high",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C008",
+        "name": "Vishnu Raj",
+        "job_id": "JOB-003",
+        "education": "BBA",
+        "experience_years": 0,
+        "skills": [
+            "Excel",
+            "Communication",
+            "Documentation"
+        ],
+        "projects": [
+            "Market Research Assignment"
+        ],
+        "resume_quality": "medium",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C009",
+        "name": "Ananya Menon",
+        "job_id": "JOB-001",
+        "education": "MSc Data Science",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Pandas",
+            "Statistics",
+            "Power BI"
+        ],
+        "projects": [
+            "Customer Segmentation",
+            "Revenue Forecasting"
+        ],
+        "resume_quality": "high",
+        "source": "synthetic_demo"
+    },
+    {
+        "candidate_id": "C010",
+        "name": "Kiran Joseph",
+        "job_id": "JOB-002",
+        "education": "BTech IT",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "Flask",
+            "SQL",
+            "REST API"
+        ],
+        "projects": [
+            "Task Management API"
+        ],
+        "resume_quality": "medium",
+        "source": "synthetic_demo"
+    }
+]

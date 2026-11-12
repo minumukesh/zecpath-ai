@@ -1,0 +1,54 @@
+﻿{
+  "candidates": [
+    {
+      "candidate_id": "DAY56-001",
+      "candidate_name": "Candidate A",
+      "role": "data_analyst",
+      "resume_text": "Data analyst skilled in Python SQL Excel Power BI statistics. Completed data cleaning, dashboard development and reporting projects.",
+      "screening_score": 85,
+      "hr_answers": [85, 80, 90, 85],
+      "technical_answers": [90, 85, 88, 92],
+      "human_decision": "RECOMMEND"
+    },
+    {
+      "candidate_id": "DAY56-002",
+      "candidate_name": "Candidate B",
+      "role": "data_analyst",
+      "resume_text": "Python SQL Excel Power BI. Basic reporting and data analysis projects.",
+      "screening_score": 72,
+      "hr_answers": [75, 70, 72, 78],
+      "technical_answers": [70, 75, 68, 72],
+      "human_decision": "HOLD"
+    },
+    {
+      "candidate_id": "DAY56-003",
+      "candidate_name": "Candidate C",
+      "role": "software_developer",
+      "resume_text": "Python Java Git API database development. Built REST API and database applications.",
+      "screening_score": 88,
+      "hr_answers": [85, 90, 82, 88],
+      "technical_answers": [90, 92, 85, 90],
+      "human_decision": "RECOMMEND"
+    },
+    {
+      "candidate_id": "DAY56-004",
+      "candidate_name": "Candidate D",
+      "role": "data_analyst",
+      "resume_text": "Python and SQL beginner. Interested in data analytics.",
+      "screening_score": 82,
+      "hr_answers": [45, 50, 48, 52],
+      "technical_answers": [35, 40, 45, 38],
+      "human_decision": "NOT_RECOMMENDED"
+    },
+    {
+      "candidate_id": "DAY56-005",
+      "candidate_name": "Candidate E",
+      "role": "software_developer",
+      "resume_text": "Python Java Git API database. Developed backend applications and REST services.",
+      "screening_score": 45,
+      "hr_answers": [80, 85, 82, 80],
+      "technical_answers": [88, 90, 85, 92],
+      "human_decision": "HOLD"
+    }
+  ]
+}

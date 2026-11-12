@@ -1,0 +1,9 @@
+{
+  "SKILLS": "Candidate mentions skills or technologies.",
+  "EXPERIENCE": "Candidate mentions work or experience details.",
+  "AVAILABILITY": "Candidate mentions joining or availability.",
+  "SALARY_EXPECTATION": "Candidate mentions salary expectations.",
+  "OFF_TOPIC": "Candidate response appears unrelated to screening.",
+  "MISSING_OR_VAGUE": "Candidate response is missing or insufficient.",
+  "GENERAL": "General response without a specific detected intent."
+}

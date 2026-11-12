@@ -1,0 +1,108 @@
+﻿TECHNICAL_SKILLS = {
+    "python": ["python", "python3", "pyhton"],
+    "java": ["java"],
+    "javascript": ["javascript", "java script", "js"],
+    "typescript": ["typescript", "ts"],
+    "c++": ["c++", "cpp"],
+    "c#": ["c#", "c sharp", "csharp"],
+    "sql": ["sql", "structured query language"],
+    "mysql": ["mysql", "my sql"],
+    "postgresql": ["postgresql", "postgres"],
+    "mongodb": ["mongodb", "mongo db", "mongo"],
+    "html": ["html", "html5"],
+    "css": ["css", "css3"],
+    "react": ["react", "reactjs", "react.js"],
+    "node.js": ["node", "nodejs", "node.js"],
+    "express.js": ["express", "expressjs", "express.js"],
+    "flask": ["flask"],
+    "django": ["django"],
+    "pandas": ["pandas"],
+    "numpy": ["numpy"],
+    "scikit-learn": ["scikit-learn", "sklearn", "scikit learn"],
+    "tensorflow": ["tensorflow"],
+    "pytorch": ["pytorch"],
+    "machine learning": ["machine learning", "ml"],
+    "deep learning": ["deep learning", "dl"],
+    "artificial intelligence": ["artificial intelligence", "ai"],
+    "natural language processing": ["natural language processing", "nlp"],
+    "computer vision": ["computer vision"],
+    "power bi": ["power bi", "powerbi", "power-bi"],
+    "tableau": ["tableau"],
+    "excel": ["excel", "microsoft excel", "ms excel"],
+    "git": ["git"],
+    "github": ["github", "git hub"],
+    "docker": ["docker"],
+    "kubernetes": ["kubernetes", "k8s"],
+    "aws": ["aws", "amazon web services"],
+    "azure": ["azure", "microsoft azure"],
+    "google cloud": ["google cloud", "gcp"],
+    "streamlit": ["streamlit"],
+    "rest api": ["rest api", "restful api", "rest"],
+}
+
+BUSINESS_SKILLS = {
+    "business analysis": ["business analysis", "business analyst"],
+    "data analysis": ["data analysis", "data analytics", "data analyst"],
+    "project management": ["project management", "project manager"],
+    "requirements analysis": ["requirements analysis", "requirement gathering"],
+    "market research": ["market research"],
+    "financial analysis": ["financial analysis"],
+    "risk analysis": ["risk analysis"],
+    "sales analysis": ["sales analysis"],
+    "business intelligence": ["business intelligence", "business intel"],
+    "digital marketing": ["digital marketing"],
+    "seo": ["seo", "search engine optimization"],
+    "crm": ["crm", "customer relationship management"],
+}
+
+CREATIVE_SKILLS = {
+    "graphic design": ["graphic design", "graphic designing"],
+    "ui design": ["ui design", "user interface design"],
+    "ux design": ["ux design", "user experience design"],
+    "figma": ["figma"],
+    "canva": ["canva"],
+    "adobe photoshop": ["photoshop", "adobe photoshop"],
+    "adobe illustrator": ["illustrator", "adobe illustrator"],
+    "content writing": ["content writing", "content writer"],
+    "copywriting": ["copywriting", "copy writer"],
+    "video editing": ["video editing", "video editor"],
+}
+
+SOFT_SKILLS = {
+    "communication": ["communication", "communication skills"],
+    "leadership": ["leadership", "leadership skills"],
+    "teamwork": ["teamwork", "team work", "team player"],
+    "problem solving": ["problem solving", "problem-solving"],
+    "critical thinking": ["critical thinking"],
+    "time management": ["time management"],
+    "adaptability": ["adaptability", "adaptable"],
+    "collaboration": ["collaboration", "collaborative"],
+    "presentation": ["presentation", "presentation skills"],
+}
+
+ALL_SKILLS = {
+    "technical": TECHNICAL_SKILLS,
+    "business": BUSINESS_SKILLS,
+    "creative": CREATIVE_SKILLS,
+    "soft": SOFT_SKILLS,
+}
+
+SKILL_STACKS = {
+    "mern": ["mongodb", "express.js", "react", "node.js"],
+    "mean": ["mongodb", "express.js", "angular", "node.js"],
+    "lamp": ["linux", "apache", "mysql", "php"],
+}
+
+SPELLING_VARIATIONS = {
+    "pyhton": "python",
+    "pythn": "python",
+    "javscript": "javascript",
+    "javasript": "javascript",
+    "powerbi": "power bi",
+    "power-bi": "power bi",
+    "postgre": "postgresql",
+    "postgressql": "postgresql",
+    "mongo db": "mongodb",
+    "reactjs": "react",
+    "nodejs": "node.js",
+}

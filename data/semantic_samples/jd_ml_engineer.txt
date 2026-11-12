@@ -1,0 +1,12 @@
+﻿JOB DESCRIPTION
+
+Skills:
+Python, pandas, NumPy, machine learning, TensorFlow
+
+Experience:
+Looking for a Machine Learning Engineer experienced in
+machine learning, predictive modelling and AI systems.
+
+Projects:
+Develop machine learning models and predictive systems
+using Python and TensorFlow.

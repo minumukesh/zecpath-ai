@@ -1,0 +1,20 @@
+﻿[
+  {
+    "candidate_id": "D32-001",
+    "role": "Data Analyst",
+    "resume_text": "Candidate has Python SQL Excel Power BI Pandas and NumPy skills.",
+    "job_description": "Data Analyst role requiring Python SQL Excel Power BI Pandas and NumPy."
+  },
+  {
+    "candidate_id": "D32-002",
+    "role": "Business Analyst",
+    "resume_text": "Candidate has communication business analysis and Excel skills.",
+    "job_description": "Business Analyst role requiring business analysis communication Excel and documentation."
+  },
+  {
+    "candidate_id": "D32-003",
+    "role": "Software Developer",
+    "resume_text": "Candidate has Java Python Git and project experience.",
+    "job_description": "Software Developer role requiring Java JavaScript Git and SQL."
+  }
+]

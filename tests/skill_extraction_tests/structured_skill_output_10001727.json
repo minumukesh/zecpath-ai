@@ -1,0 +1,107 @@
+{
+    "resume_id": "10001727",
+    "skills": [
+        {
+            "skill": "customer satisfaction",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "communication",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "inventory management",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "project management",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "revenue management",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "customer service",
+            "category": "business",
+            "confidence": 0.9,
+            "source": "dictionary"
+        },
+        {
+            "skill": "problem solving",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "time management",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "hospitality",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "supervision",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "accounting",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "data entry",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "teamwork",
+            "category": "business",
+            "confidence": 0.9,
+            "source": "dictionary"
+        },
+        {
+            "skill": "marketing",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "auditing",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "staffing",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        },
+        {
+            "skill": "sales",
+            "category": "business",
+            "confidence": 1.0,
+            "source": "dictionary"
+        }
+    ]
+}

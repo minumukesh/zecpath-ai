@@ -1,0 +1,62 @@
+﻿[
+  {
+    "candidate_id": "D40-001",
+    "candidate_name": "Candidate Confident",
+    "role": "HR Executive",
+    "candidate_type": "CONFIDENT",
+    "scores": {
+      "answer_relevance": 90,
+      "communication": 92,
+      "problem_solving": 88,
+      "consistency": 90
+    },
+    "manual_expected_score": 90,
+    "manual_expected_decision": "STRONG",
+    "scenario_notes": "Clear and confident responses."
+  },
+  {
+    "candidate_id": "D40-002",
+    "candidate_name": "Candidate Hesitant",
+    "role": "HR Executive",
+    "candidate_type": "HESITANT",
+    "scores": {
+      "answer_relevance": 78,
+      "communication": 65,
+      "problem_solving": 80,
+      "consistency": 78
+    },
+    "manual_expected_score": 76,
+    "manual_expected_decision": "GOOD",
+    "scenario_notes": "Some pauses, but relevant answers."
+  },
+  {
+    "candidate_id": "D40-003",
+    "candidate_name": "Candidate Inexperienced",
+    "role": "HR Executive",
+    "candidate_type": "INEXPERIENCED",
+    "scores": {
+      "answer_relevance": 70,
+      "communication": 75,
+      "problem_solving": 68,
+      "consistency": 78
+    },
+    "manual_expected_score": 72,
+    "manual_expected_decision": "GOOD",
+    "scenario_notes": "Limited work experience, with transferable examples."
+  },
+  {
+    "candidate_id": "D40-004",
+    "candidate_name": "Candidate Overqualified",
+    "role": "HR Executive",
+    "candidate_type": "OVERQUALIFIED",
+    "scores": {
+      "answer_relevance": 85,
+      "communication": 82,
+      "problem_solving": 90,
+      "consistency": 86
+    },
+    "manual_expected_score": 86,
+    "manual_expected_decision": "STRONG",
+    "scenario_notes": "Extensive experience; role expectations require discussion."
+  }
+]

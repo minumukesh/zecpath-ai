@@ -1,0 +1,11 @@
+{
+  "rules": [
+    "Normalize CRLF and CR line breaks to spaces.",
+    "Replace line breaks with single spaces.",
+    "Collapse repeated whitespace.",
+    "Collapse repeated punctuation.",
+    "Remove spaces before punctuation.",
+    "Normalize spacing after punctuation.",
+    "Trim leading and trailing whitespace."
+  ]
+}

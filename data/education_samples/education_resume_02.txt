@@ -1,0 +1,17 @@
+﻿JANE SMITH
+
+ACADEMIC QUALIFICATIONS
+
+BCA
+XYZ College
+2020
+
+M.Sc in Data Science
+National Institute of Technology
+2022
+
+PROFESSIONAL CERTIFICATIONS
+
+IBM Data Science Professional Certificate
+Microsoft Azure Certification
+Certified Scrum Master

@@ -1,0 +1,27 @@
+{
+  "schema_name": "zecpath_voice_transcript",
+  "version": "1.0",
+  "description": "Structured representation of a voice screening transcript segment.",
+  "required_fields": [
+    "candidate_id",
+    "job_id",
+    "question_id",
+    "timestamp",
+    "confidence_level",
+    "speaker",
+    "sequence",
+    "text",
+    "language"
+  ],
+  "fields": {
+    "candidate_id": "string",
+    "job_id": "string",
+    "question_id": "string",
+    "timestamp": "ISO-8601 datetime",
+    "confidence_level": "float 0.0-1.0",
+    "speaker": "candidate | interviewer | system",
+    "sequence": "positive integer",
+    "text": "string",
+    "language": "string"
+  }
+}

@@ -1,0 +1,73 @@
+﻿{
+  "candidates": [
+    {
+      "candidate_id": "D28-001",
+      "candidate_name": "Arun Kumar",
+      "job_role": "Data Analyst",
+      "ats_score": 82.5,
+      "confirmed_skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "salary_expectation": "INR 30,000 per month",
+      "availability": "Can join within 30 days",
+      "answers": [
+        {
+          "question": "Which data analysis tools do you know?",
+          "answer": "I have used Python, SQL, Excel, and Power BI in academic projects.",
+          "status": "provided"
+        },
+        {
+          "question": "Describe your project experience.",
+          "answer": "I created a sales analytics dashboard using Python and Power BI.",
+          "status": "provided"
+        },
+        {
+          "question": "What is your notice period?",
+          "answer": "I can join within 30 days.",
+          "status": "provided"
+        },
+        {
+          "question": "What is your expected salary?",
+          "answer": "",
+          "status": "missing"
+        }
+      ],
+      "strengths": [
+        "Project experience related to data analysis"
+      ],
+      "risk_notes": []
+    },
+    {
+      "candidate_id": "D28-002",
+      "candidate_name": "Meera Joseph",
+      "job_role": "Business Analyst",
+      "ats_score": 64.0,
+      "confirmed_skills": [
+        "Excel",
+        "Communication",
+        "Documentation"
+      ],
+      "salary_expectation": "",
+      "availability": "Not confirmed",
+      "answers": [
+        {
+          "question": "What are your main skills?",
+          "answer": "I use Excel and have communication skills.",
+          "status": "provided"
+        },
+        {
+          "question": "When can you join?",
+          "answer": "Maybe later, I am not sure.",
+          "status": "vague"
+        }
+      ],
+      "strengths": [],
+      "risk_notes": [
+        "Joining date requires recruiter confirmation."
+      ]
+    }
+  ]
+}

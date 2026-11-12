@@ -1,0 +1,162 @@
+[
+    {
+        "candidate_id": "C001",
+        "job_id": "JOB-001",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I enjoy solving business problems using data and presenting clear insights.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C001",
+        "job_id": "JOB-001",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use pandas for cleaning data, SQL for querying databases, and Power BI for visualization.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C002",
+        "job_id": "JOB-001",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I am interested in learning and applying analytical methods to real business problems.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C002",
+        "job_id": "JOB-001",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use Python libraries to clean data and calculate descriptive statistics.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C003",
+        "job_id": "JOB-001",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I want to improve my analytical and technical skills.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C003",
+        "job_id": "JOB-001",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use Excel formulas and charts to summarize information.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C004",
+        "job_id": "JOB-002",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I enjoy backend development and collaborating with teams to deliver reliable applications.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C004",
+        "job_id": "JOB-002",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I design Flask routes, validate requests, handle exceptions, and use SQL databases for persistence.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C005",
+        "job_id": "JOB-002",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I am looking for a role where I can improve my development skills.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C005",
+        "job_id": "JOB-002",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I understand Python functions, database queries, and basic application structure.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C006",
+        "job_id": "JOB-002",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I am interested in starting my career in software development.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C006",
+        "job_id": "JOB-002",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I understand basic programming concepts and web page development.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C007",
+        "job_id": "JOB-003",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I communicate with stakeholders to understand problems and translate them into requirements.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C007",
+        "job_id": "JOB-003",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use Excel and SQL for analysis and Power BI to present business performance.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C008",
+        "job_id": "JOB-003",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I enjoy understanding customer and business requirements.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C008",
+        "job_id": "JOB-003",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use Excel to organize data and prepare reports.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C009",
+        "job_id": "JOB-001",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I focus on translating analytical findings into useful business recommendations.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C009",
+        "job_id": "JOB-001",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use pandas for preprocessing, SQL for data extraction, and statistical techniques for analysis.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C010",
+        "job_id": "JOB-002",
+        "interview_type": "HR",
+        "question": "Why are you interested in this role?",
+        "answer": "I enjoy learning new technologies and working on backend systems.",
+        "evaluation_status": "SIMULATED"
+    },
+    {
+        "candidate_id": "C010",
+        "job_id": "JOB-002",
+        "interview_type": "TECHNICAL",
+        "question": "Explain how you would use your skills in this role.",
+        "answer": "I use Flask to create endpoints and SQL queries to retrieve and update records.",
+        "evaluation_status": "SIMULATED"
+    }
+]

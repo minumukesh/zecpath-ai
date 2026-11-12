@@ -1,0 +1,17 @@
+Data Analyst
+
+We are looking for a Data Analyst to join our analytics team.
+
+Responsibilities:
+- Analyze business data and prepare reports.
+- Build dashboards.
+- Work with business stakeholders.
+- Identify trends and insights.
+
+Requirements:
+- 2+ years of experience in data analysis.
+- Bachelor degree in Computer Science, Statistics, Mathematics or related field.
+- Strong Python and SQL skills.
+- Experience with Microsoft Excel and Power BI.
+- Good communication skills.
+- Knowledge of machine learning is an advantage.

@@ -1,0 +1,21 @@
+﻿{
+  "day": 33,
+  "title": "HR Interview Engine Design",
+  "categories": [
+    "self_introduction",
+    "career_journey",
+    "strengths_weaknesses",
+    "teamwork_culture_fit",
+    "career_goals",
+    "availability_commitment"
+  ],
+  "experience_levels": ["fresher", "experienced"],
+  "role_types": ["technical", "non_technical"],
+  "conversation_phases": [
+    "INTRODUCTION",
+    "CORE_HR_QUESTIONS",
+    "ROLE_BASED_EVALUATION",
+    "CLOSING"
+  ],
+  "question_bank_source": "src/hr_interview/engine.py"
+}

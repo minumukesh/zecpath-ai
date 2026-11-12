@@ -1,0 +1,143 @@
+﻿{
+    "apis":  {
+                 "decision":  {
+                                  "endpoint":  "/api/v1/ai/decision/recommend",
+                                  "method":  "POST",
+                                  "request":  {
+                                                  "candidate_id":  "string",
+                                                  "screening_result":  {
+
+                                                                       },
+                                                  "request_id":  "string",
+                                                  "job_id":  "string",
+                                                  "interview_result":  {
+
+                                                                       },
+                                                  "ats_score":  85
+                                              },
+                                  "processing":  "synchronous",
+                                  "response":  {
+                                                   "request_id":  "string",
+                                                   "status":  "completed",
+                                                   "human_review_required":  true,
+                                                   "recommendation":  "manual_review",
+                                                   "reason":  "Human review required"
+                                               }
+                              },
+                 "ats_scoring":  {
+                                     "endpoint":  "/api/v1/ai/ats/score",
+                                     "method":  "POST",
+                                     "request":  {
+                                                     "request_id":  "string",
+                                                     "candidate_id":  "string",
+                                                     "candidate_profile":  {
+
+                                                                           },
+                                                     "job_id":  "string",
+                                                     "job_requirements":  {
+
+                                                                          }
+                                                 },
+                                     "processing":  "synchronous",
+                                     "response":  {
+                                                      "matching_skills":  [
+                                                                              "Python",
+                                                                              "SQL"
+                                                                          ],
+                                                      "explanation":  "Matching analysis",
+                                                      "request_id":  "string",
+                                                      "score":  85,
+                                                      "status":  "completed",
+                                                      "missing_skills":  [
+                                                                             "Cloud"
+                                                                         ]
+                                                  }
+                                 },
+                 "screening":  {
+                                   "endpoint":  "/api/v1/ai/screening/evaluate",
+                                   "method":  "POST",
+                                   "request":  {
+                                                   "request_id":  "string",
+                                                   "candidate_id":  "string",
+                                                   "answers":  [
+
+                                                               ],
+                                                   "job_id":  "string"
+                                               },
+                                   "processing":  "synchronous",
+                                   "response":  {
+                                                    "request_id":  "string",
+                                                    "status":  "completed",
+                                                    "score":  80,
+                                                    "eligibility_status":  "eligible",
+                                                    "reason":  "Screening evaluation"
+                                                }
+                               },
+                 "interview":  {
+                                   "endpoint":  "/api/v1/ai/interview/evaluate",
+                                   "method":  "POST",
+                                   "request":  {
+                                                   "request_id":  "string",
+                                                   "candidate_id":  "string",
+                                                   "question_id":  "string",
+                                                   "answer":  "string",
+                                                   "interview_id":  "string"
+                                               },
+                                   "processing":  "synchronous",
+                                   "response":  {
+                                                    "improvements":  [
+                                                                         "Technical depth"
+                                                                     ],
+                                                    "feedback":  "Interview feedback",
+                                                    "request_id":  "string",
+                                                    "score":  85,
+                                                    "status":  "completed",
+                                                    "strengths":  [
+                                                                      "Communication"
+                                                                  ]
+                                                }
+                               },
+                 "resume_parsing":  {
+                                        "endpoint":  "/api/v1/ai/resume/parse",
+                                        "method":  "POST",
+                                        "request":  {
+                                                        "request_id":  "string",
+                                                        "candidate_id":  "string",
+                                                        "resume_reference":  "string"
+                                                    },
+                                        "processing":  "asynchronous",
+                                        "response":  {
+                                                         "request_id":  "string",
+                                                         "status":  "queued | processing | completed | failed",
+                                                         "result":  {
+                                                                        "certifications":  [
+
+                                                                                           ],
+                                                                        "education":  [
+
+                                                                                      ],
+                                                                        "skills":  [
+                                                                                       "Python",
+                                                                                       "SQL"
+                                                                                   ],
+                                                                        "experience":  [
+
+                                                                                       ]
+                                                                    },
+                                                         "job_id":  "string"
+                                                     }
+                                    }
+             },
+    "document":  "Day 59 API Request and Response Definitions",
+    "common_error":  {
+                         "request_id":  "string",
+                         "status":  "failed",
+                         "error":  {
+                                       "retryable":  "boolean",
+                                       "message":  "string",
+                                       "code":  "string"
+                                   }
+                     },
+    "version":  "1.0",
+    "note":  "Proposed API contracts, not implemented endpoints."
+}

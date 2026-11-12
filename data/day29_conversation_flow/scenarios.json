@@ -1,0 +1,37 @@
+﻿{
+  "project": "Zecpath AI",
+  "day": 29,
+  "title": "AI Conversation Flow Design",
+  "scenarios": [
+    {
+      "scenario_id": "SILENCE",
+      "description": "Candidate does not respond.",
+      "event": "silence",
+      "expected_action": "PROMPT_AFTER_SILENCE"
+    },
+    {
+      "scenario_id": "CONFUSION",
+      "description": "Candidate does not understand the question.",
+      "event": "confusion",
+      "expected_action": "CLARIFY_QUESTION"
+    },
+    {
+      "scenario_id": "REPEATED_ANSWER",
+      "description": "Candidate repeats the previous answer.",
+      "event": "repeated_answer",
+      "expected_action": "HANDLE_REPEATED_ANSWER"
+    },
+    {
+      "scenario_id": "UNCLEAR_ANSWER",
+      "description": "Candidate gives an uncertain response.",
+      "event": "uncertain_answer",
+      "expected_action": "FOLLOW_UP_UNCERTAIN_ANSWER"
+    },
+    {
+      "scenario_id": "SYSTEM_FAILURE",
+      "description": "Conversation encounters a temporary error.",
+      "event": "system_failure",
+      "expected_action": "RETRY_SYSTEM"
+    }
+  ]
+}

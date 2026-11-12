@@ -1,0 +1,23 @@
+CANDIDATE: TF001
+NAME: Arun Kumar
+
+SUMMARY
+Recent Computer Science graduate interested in Data Analytics.
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, Git
+
+EXPERIENCE
+Fresher
+
+EDUCATION
+Bachelor of Science in Computer Science
+ABC College
+2026
+
+PROJECTS
+Sales Analytics Dashboard using Python, Pandas and Power BI.
+Built a small SQL database and performed data analysis.
+
+CERTIFICATIONS
+Python for Data Science

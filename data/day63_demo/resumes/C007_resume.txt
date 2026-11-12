@@ -1,0 +1,24 @@
+RESUME
+
+Candidate ID: C007
+Name: Ishita Pillai
+Target Role: Business Analyst
+
+PROFESSIONAL SUMMARY
+Business Analyst with experience in reporting and stakeholder coordination.
+
+EDUCATION
+MBA
+
+WORK EXPERIENCE
+2 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Business Analysis, Excel, Communication, Power BI, SQL
+
+PROJECTS
+- Process Improvement Study
+- Sales Reporting
+
+NOTE
+This is a fictional demonstration resume created for software testing.

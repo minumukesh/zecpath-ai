@@ -1,0 +1,82 @@
+[
+    {
+        "candidate_id": "C001",
+        "job_id": "JOB-001",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I use SQL to extract data and Python for analysis. I use Power BI to communicate findings.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C002",
+        "job_id": "JOB-001",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have academic experience in statistics and basic Python analysis.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C003",
+        "job_id": "JOB-001",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have worked with spreadsheets and created basic reports.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C004",
+        "job_id": "JOB-002",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have developed Flask APIs and integrated relational databases.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C005",
+        "job_id": "JOB-002",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have used Python and SQL in college projects.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C006",
+        "job_id": "JOB-002",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have studied programming and web technologies.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C007",
+        "job_id": "JOB-003",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I gather requirements, document processes, and analyze operational performance.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C008",
+        "job_id": "JOB-003",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have experience preparing reports and documenting project requirements.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C009",
+        "job_id": "JOB-001",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I analyze large datasets, identify patterns, and communicate findings to business teams.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    },
+    {
+        "candidate_id": "C010",
+        "job_id": "JOB-002",
+        "question": "Describe your relevant skills and experience.",
+        "response": "I have created backend routes and connected applications to SQL databases.",
+        "response_type": "text",
+        "source": "simulated_candidate_response"
+    }
+]

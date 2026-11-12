@@ -1,0 +1,50 @@
+flowchart TD
+    A[Candidate] --> B[Resume Upload]
+    B --> C[Resume Storage]
+    C --> D[Resume Parser]
+    D --> E[Candidate Profile]
+
+    F[Employer] --> G[Job Description]
+    G --> H[Day 6 - JD Parser]
+    H --> I[Structured Job Profile]
+
+    E --> J[AI Matching / ATS Engine]
+    I --> J
+
+    J --> K[ATS Score]
+    K --> L[AI Screening]
+    L --> M[Screening Report]
+    M --> N[AI Interview]
+    N --> O[Interview Results]
+    O --> P[Hiring Decision]
+
+    C -.-> C1[(Resume Storage)]
+    E -.-> E1[(Candidate Profile Storage)]
+    I -.-> I1[(Job Profile Storage)]
+    K -.-> K1[(ATS Results Storage)]
+    M -.-> M1[(Screening Results Storage)]
+    O -.-> O1[(Interview Results Storage)]
+
+    Q[Metadata & Audit Layer] -.-> E
+    Q -.-> I
+    Q -.-> K
+    Q -.-> M
+    Q -.-> O
+
+    Q1[Candidate ID]
+    Q2[Job ID]
+    Q3[Application ID]
+    Q4[Model Version]
+    Q5[Pipeline Version]
+    Q6[Data Version]
+    Q7[Timestamp]
+    Q8[Processing Status]
+
+    Q --- Q1
+    Q --- Q2
+    Q --- Q3
+    Q --- Q4
+    Q --- Q5
+    Q --- Q6
+    Q --- Q7
+    Q --- Q8

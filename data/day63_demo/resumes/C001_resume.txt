@@ -1,0 +1,24 @@
+RESUME
+
+Candidate ID: C001
+Name: Aarav Menon
+Target Role: Data Analyst
+
+PROFESSIONAL SUMMARY
+Data Analyst with experience in reporting and dashboard development.
+
+EDUCATION
+BSc Computer Science
+
+WORK EXPERIENCE
+2 years
+
+TECHNICAL AND PROFESSIONAL SKILLS
+Python, SQL, Excel, Power BI, Pandas
+
+PROJECTS
+- Sales Dashboard
+- Customer Data Analysis
+
+NOTE
+This is a fictional demonstration resume created for software testing.

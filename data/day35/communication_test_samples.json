@@ -1,0 +1,22 @@
+﻿[
+  {
+    "sample_id": "D35-S001",
+    "description": "Structured response",
+    "text": "First, I analyzed the customer data. For example, I used Python to clean the dataset and identify missing values. As a result, the team received a clearer report. Overall, this experience improved my problem-solving skills."
+  },
+  {
+    "sample_id": "D35-S002",
+    "description": "Response with filler words",
+    "text": "Um, I worked on a project and, you know, I used Excel to organize the data. Basically, the report helped my team understand the results."
+  },
+  {
+    "sample_id": "D35-S003",
+    "description": "Brief response",
+    "text": "I worked on a project."
+  },
+  {
+    "sample_id": "D35-S004",
+    "description": "Empty response",
+    "text": ""
+  }
+]

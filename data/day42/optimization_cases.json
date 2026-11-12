@@ -1,0 +1,12 @@
+[
+    {"candidate_id":"D42-001","score":88,"human_decision":"PASS","transcript":"Um, I used Python and SQL for analysis."},
+    {"candidate_id":"D42-002","score":82,"human_decision":"PASS","transcript":"I managed a project and worked with stakeholders."},
+    {"candidate_id":"D42-003","score":75,"human_decision":"PASS","transcript":"I solved the issue by checking the data."},
+    {"candidate_id":"D42-004","score":68,"human_decision":"HOLD","transcript":"I need more time to explain my approach."},
+    {"candidate_id":"D42-005","score":55,"human_decision":"HOLD","transcript":"I am not sure about that process."},
+    {"candidate_id":"D42-006","score":42,"human_decision":"HOLD","transcript":"I have not worked on this before."},
+    {"candidate_id":"D42-007","score":72,"human_decision":"HOLD","transcript":"I cannot provide a relevant example."},
+    {"candidate_id":"D42-008","score":62,"human_decision":"PASS","transcript":"I completed the task after reviewing requirements."},
+    {"candidate_id":"D42-009","score":91,"human_decision":"PASS","transcript":"I designed and implemented the solution."},
+    {"candidate_id":"D42-010","score":48,"human_decision":"HOLD","transcript":"I do not have enough information."}
+]
