@@ -85,3 +85,21 @@ requirements_day6.txt
 
 # Additional backup scripts
 *_backup*.py
+
+# Development and temporary files
+fix_project_tests.py
+fix_two_tests.py
+setup_days42_43.py
+setup_days42_43_backup.py
+setup_days42_43_backup2.py
+.gitignore.before_cleanup.bak
+repository_structure_before_reorganization.txt
+
+# Old implementation backups
+src/ats_api/api_before_integration.py
+src/resume_section_classifier/classifier_before_project_fix.py
+src/interview_system/*.day57_backup*
+
+# Python cache
+__pycache__/
+*.pyc
